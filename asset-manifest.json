@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PasinduFernando/static/css/main.40b93737.css",
+    "main.js": "/PasinduFernando/static/js/main.ebe905bd.js",
+    "static/media/PasinduFdo.JPG": "/PasinduFernando/static/media/PasinduFdo.bba6763df4cb37acb54f.JPG",
+    "static/media/pasindu.JPG": "/PasinduFernando/static/media/pasindu.8357acf1d69ccf97b613.JPG",
+    "static/media/surecore.svg": "/PasinduFernando/static/media/surecore.dd7ce467fcb70a180f0590a315084f34.svg",
+    "static/media/Pasindu Fernando.pdf": "/PasinduFernando/static/media/Pasindu Fernando.19858864f944a715d56c.pdf",
+    "static/media/about.png": "/PasinduFernando/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/vaz.png": "/PasinduFernando/static/media/vaz.5d554ef77db80120fc52.png",
+    "static/media/home-bg.jpg": "/PasinduFernando/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/maris1.png": "/PasinduFernando/static/media/maris1.b02c7682b7d4aa871fc3.png",
+    "static/media/pre.svg": "/PasinduFernando/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/PasinduFernando/index.html",
+    "main.40b93737.css.map": "/PasinduFernando/static/css/main.40b93737.css.map",
+    "main.ebe905bd.js.map": "/PasinduFernando/static/js/main.ebe905bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b93737.css",
+    "static/js/main.ebe905bd.js"
+  ]
+}
